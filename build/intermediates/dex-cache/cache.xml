@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/adminsag/AndrioidStudioProjects/FontTextView/app/build/intermediates/exploded-aar/FontTextView/pdfViewer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="14cf973e1fc7d07785b0272bf4288675db80b916">
+        <dex dex="/home/adminsag/AndrioidStudioProjects/FontTextView/app/build/intermediates/pre-dexed/debug/classes-cec54dd42beb559cf3572b9a01bd169d30a69534.jar" />
+    </item>
+    <item
+        jar="/home/adminsag/AndrioidStudioProjects/FontTextView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/adminsag/AndrioidStudioProjects/FontTextView/app/build/intermediates/pre-dexed/debug/classes-3635acd6433bb023f4d67e428cd177e9550969ed.jar" />
+    </item>
+    <item
+        jar="/home/adminsag/AndrioidStudioProjects/FontTextView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/adminsag/AndrioidStudioProjects/FontTextView/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8ec8a3f8ee439b595a37d8b740d1844f44aa22cc.jar" />
+    </item>
+    <item
+        jar="/spot/WorkDev0/Android0/dev0/android-sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/adminsag/AndrioidStudioProjects/FontTextView/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-4d1ee0be64e249b80fdb8c74abe5f8f2794b1045.jar" />
+    </item>
+
+</items>

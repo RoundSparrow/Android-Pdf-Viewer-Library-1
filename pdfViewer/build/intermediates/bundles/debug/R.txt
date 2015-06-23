@@ -1,0 +1,4 @@
+int id footer 0x7f030001
+int id graph_frame 0x7f030002
+int id root 0x7f030000
+int layout root 0x7f020000
